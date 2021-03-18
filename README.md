@@ -1,5 +1,5 @@
 # Colouring_Game
-A simple colouring game for kids on android**(means only for android)**.
+A simple colouring game for kids on android **(means only for android)**.
 
 ## Installation
 1. Clone/download the repository.
